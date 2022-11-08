@@ -24,7 +24,7 @@ public class LoginPage extends BasePage{
 
     public LoginPage getPassword(){
 
-        sendKeys(password, "vezriazam");
+        sendKeys(password, "2314545232");
         return this;
     }
 
